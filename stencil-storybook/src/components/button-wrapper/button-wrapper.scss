@@ -1,0 +1,15 @@
+@import "./../../global/global.css";
+
+$royalBlue: white;;
+
+:host {
+  display: block;
+  color: teal;
+
+  .dismiss {
+    background-color: goldenrod;
+    color: $royalBlue;
+  }
+
+}
+
